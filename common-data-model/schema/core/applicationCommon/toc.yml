@@ -325,6 +325,20 @@
       items: 
       - name: Summary
         href: foundationCommon/crmCommon/solutions/overview.md
+      - name: customerInsights
+        items: 
+        - name: Summary
+          href: foundationCommon/crmCommon/solutions/customerInsights/overview.md
+        - name: CustomerAccount 
+          href: foundationCommon/crmCommon/solutions/customerInsights/CustomerAccount.md
+        - name: CustomerProfile 
+          href: foundationCommon/crmCommon/solutions/customerInsights/CustomerProfile.md
+        - name: CustomerDefinition 
+          href: foundationCommon/crmCommon/solutions/customerInsights/CustomerDefinition.md
+        - name: Segment 
+          href: foundationCommon/crmCommon/solutions/customerInsights/Segment.md
+        - name: SegmentMembership 
+          href: foundationCommon/crmCommon/solutions/customerInsights/SegmentMembership.md
       - name: marketing
         items: 
         - name: Summary
